@@ -1,4 +1,4 @@
-# Machine-learning
+# ANN
 
 import math
 import random
